@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana-3.3--MultiList-CompraCaja-.NET 6.0", "Semana-3.3--MultiList-CompraCaja-.NET 6.0\Semana-3.3--MultiList-CompraCaja-.NET 6.0.csproj", "{D75E0C2D-480E-40F8-8503-F22A9412789E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75E0C2D-480E-40F8-8503-F22A9412789E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75E0C2D-480E-40F8-8503-F22A9412789E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75E0C2D-480E-40F8-8503-F22A9412789E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75E0C2D-480E-40F8-8503-F22A9412789E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63CA742-509B-4A6A-AB67-A25F19E6F7AF}
+	EndGlobalSection
+EndGlobal
